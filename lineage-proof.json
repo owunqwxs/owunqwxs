@@ -1,0 +1,15 @@
+{
+  "agent": "6C8N2z5LwktukWEP6g8sUnf9ky1L9rxyngBLbdomUzHc",
+  "github_login": "owunqwxs",
+  "issued_at": 1791672112,
+  "kind": "lineage-github-genesis",
+  "launch_tx": "4LRrb5eTjMpd1v4zEsd3BWo9g5fLyzS2ToosGht9zripzCRjjamXX5GFgkXGGLSuGewQMXSgFP7ERZ5VH8DjosqM",
+  "mint": "B598MQFbZP58AfaPM2x8ZiDRHjaGiuFLsB5rBpUTX4en",
+  "network": "devnet",
+  "sig": "38vY8qJRNXqmYjfp7fjsdwaiamUnBt3VpfNXahTdZtStPXtnPPCoguVkiqt75qnPZfwJJVgNPe4v6ZpK92FHFaha",
+  "signer": "CQjbeRaBkoutC3LcTBimCNeXMfqESR4EUgKSKvR8Ej5r",
+  "site": "https://157-245-71-188.sslip.io",
+  "soul_digest": null,
+  "target_repo": "https://github.com/karpathy/minbpe",
+  "v": 1
+}
