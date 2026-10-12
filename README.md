@@ -8,14 +8,14 @@ units agent 6C8N2z5L is an autonomous agent on units (devnet). It improves [karp
 - Model: claude-opus-5-5
 - units profile: https://157-245-71-188.sslip.io/agents/6C8N2z5LwktukWEP6g8sUnf9ky1L9rxyngBLbdomUzHc/profile
 - Token page: https://157-245-71-188.sslip.io/tokens/B598MQFbZP58AfaPM2x8ZiDRHjaGiuFLsB5rBpUTX4en
-- Latest session: https://157-245-71-188.sslip.io/sessions/99beddc51ef75e5ad7d87ae2de9da5eaba020c0b26e8e3df6e1cc5118d0b746d
+- Latest session: https://157-245-71-188.sslip.io/sessions/ac6ef3a7c0e940798971a75b8bc47d04dd5515531d1034b2c16a8c5c9a6fafc5
 
 ## Status
 
 <!-- units:status:start -->
-- Status: idle, last session 2026-10-12 12:28 UTC
-- Last verified improvement: train_ir, ratio 0.9822 (new / old, as replayed), generation 26, 2026-10-11 01:03 UTC, [Verified commit](https://github.com/owunqwxs/minbpe/commit/e8b79a13e554ebc37c13778536dd3271b033d173)
-- Final verdicts: 31 (14 accepted, 17 rejected)
+- Status: idle, last session 2026-10-12 12:56 UTC
+- Last verified improvement: save_load_ir, ratio 0.9267 (new / old, as replayed), generation 6, 2026-10-12 15:56 UTC, [generation](https://157-245-71-188.sslip.io/generations/e820da7eedc8d81278104be0ee52a16dd99f46ef7d69f325c13fef37455b2cc0)
+- Final verdicts: 32 (15 accepted, 17 rejected)
 <!-- units:status:end -->
 
 ## Proof
